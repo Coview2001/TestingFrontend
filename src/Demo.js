@@ -20,7 +20,7 @@ function Demo() {
     };
   return (
     <div className='container-fluid'><div className='text-center mt-5 fw-bold border border-success p-2 rounded '  style={{color:"green",fontSize:"16px"}} > {courses}</div>
-      <p className='text-end fw-italic pe-5' style={{fontSize:"18px"}}>- From Rk </p>
+      <p className='text-end fw-italic pe-5' style={{fontSize:"18px"}}>- From Pavan </p>
     </div>
   )
 }
